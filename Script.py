@@ -7,14 +7,14 @@ class script(object):
     HELP_TXT = """<b>Welcome To My Help Module #1</b>"""
     ONE_TXT = """<b>Welcome To My Help Module #2</b>"""
     TWO_TXT = """<b>Welcome To My Help Module #3</b>"""
-    BIO_TXT = """<b>○ My Name: Michael Jackson
-○ Developer: <a href=https://t.me/ddrabit/19>LᴀL</a>
+    BIO_TXT = """<b>○ My Name: 🅵🅸🅻🆃🅴🆁 🅱🅾🆃
+○ Developer: <a href=https://t.me/Tamil_Thalaiva>🆂🆄🆁🅹🅸🆃🅷</a>
 ○ Language: Phython3
 ○ Data Base: MongoDB
 ○ Bot Server: Heroku
 ○ Build Status: v1.0.2 [ Beta ]</b>"""
-    ABOUT_TXT = """<b>• ɴᴀᴍᴇ: ᴍɪᴄʜᴀᴇʟ ᴊᴀᴄᴋsᴏɴ</b>
-<b>• ᴏᴡɴᴇʀ: LᴀL</b>
+    ABOUT_TXT = """<b>• ɴᴀᴍᴇ: 🅵🅸🅻🆃🅴🆁 🅱🅾🆃</b>
+<b>• ᴏᴡɴᴇʀ: 🆂🆄🆁🅹🅸🆃🅷</b>
 <b>• ʟɪʙʀᴀʀʏ: ᴘʏʀᴏɢʀᴀᴍ</b>
 <b>• ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>
 <b>• ᴅᴀᴛᴀʙᴀsᴇ: ᴍᴏɴɢᴏ ᴅʙ</b>
@@ -39,10 +39,10 @@ class script(object):
   
 <b>✮ Deploy Tutorial ››</b> <i><b>https://youtu.be/kB9TkCs8cX0</b></i>
 
-<b>𝙸𝙵 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙷𝙴 𝙰𝙹𝙰𝚇-𝙿𝚁𝙾-𝙼𝙰𝚇 𝚁𝙴𝙿𝙾 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 <a href=https://t.me/AboutAadhi>𝙰𝙰𝙳𝙷𝙸</a></b>
+<b>𝙸𝙵 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙷𝙴 𝙰𝙹𝙰𝚇-𝙿𝚁𝙾-𝙼𝙰𝚇 𝚁𝙴𝙿𝙾 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 <a href=https://t.me/Tamil_Thalaiva>🆂🆄🆁🅹🅸🆃🅷</a></b>
 
 <b>𝚂𝙷𝙰𝚁𝙴 𝙰𝙽𝙳 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴</b>
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/MWUpdatez><b>𝙼𝚆-𝚄𝙿𝙳𝙰𝚃𝙴𝚉</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/Tamilthalaiva3><b>𝗧𝗮𝗺𝗶𝗹 𝗧𝗵𝗮𝗹𝗮𝗶𝘃𝗮</b></a>"""
     MANUELFILTER_TXT = """<b>Commands and Usage.</b>
 
 • /filter - <code>add a filter in chat</code>
@@ -156,7 +156,7 @@ This module only works for my admins
 """
     REPORT_TXT = """<b>Usage.</b>
 
-/report 𝗈𝗋 @admins """
+/report 𝗈𝗋 @Tamil_Thalaiva """
 
     CORONA_TXT = """/covid - Use This Command To know Covid informations.
 
