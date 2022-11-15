@@ -41,13 +41,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('🎉 𝗔𝗱𝗱 𝗠𝗲 𝗧𝗼 𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽𝘀 🎉', url=f'http://t.me/{temp.U_NAME}?startgroup=start')
             ],[
-            InlineKeyboardButton('', url='https://t.me/ddrabit'),
-            InlineKeyboardButton('', url='https://t.me/tgbruh')
+            InlineKeyboardButton('', url='https://t.me/Tamil_Thalaiva'),
+            InlineKeyboardButton('', url='https://t.me/Tamilthalaiva3')
             ],[      
             InlineKeyboardButton('🛠️ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('🛡️ ᴀʙᴏᴜᴛ', callback_data='bio')
             ],[
-            InlineKeyboardButton('', url='https://t.me/+4Gma2ZZFFRA2MWQ1')
+            InlineKeyboardButton('', url='https://t.me/sbmovietamzha')
         ]]         
         reply_markup = InlineKeyboardMarkup(buttons)        
         await message.reply_photo(
@@ -84,8 +84,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('🎉 𝗔𝗱𝗱 𝗠𝗲 𝗧𝗼 𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽𝘀 🎉', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('', url='https://t.me/ddrabit'),
-            InlineKeyboardButton('', url='https://t.me/tgbruh')
+            InlineKeyboardButton('', url='https://t.me/Tamil_Thalaiva'),
+            InlineKeyboardButton('', url='https://t.me/Tamilthalaiva3')
             ],[      
             InlineKeyboardButton('🛠️ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('🛡️ ᴀʙᴏᴜᴛ', callback_data='bio')
