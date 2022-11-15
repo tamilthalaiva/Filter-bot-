@@ -747,8 +747,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('🎉 𝗔𝗱𝗱 𝗠𝗲 𝗧𝗼 𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽 🎉', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('', url='https://t.me/ddrabit'),
-            InlineKeyboardButton('', url='https://t.me/TGBruh')
+            InlineKeyboardButton('', url='https://t.me/Tamil_Thalaiva'),
+            InlineKeyboardButton('', url='https://t.me/Tamilthalaiva3')
             ],[      
             InlineKeyboardButton('🛠️ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('🛡️ ᴀʙᴏᴜᴛ', callback_data='bio')
@@ -918,7 +918,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "bio":
         buttons= [[
             InlineKeyboardButton('Status 📉', callback_data='stats'),
-            InlineKeyboardButton('🪶 Source', url='https://t.me/ddrabit/36')
+            InlineKeyboardButton('🪶 Source', url='https://t.me/Tamil_Thalaiva')
             ],[
             InlineKeyboardButton('🏠 Home', callback_data='start'),
             InlineKeyboardButton('Close 🔐', callback_data='close_data')
