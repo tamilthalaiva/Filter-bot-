@@ -66,7 +66,7 @@ async def leave_a_chat(bot, message):
         chat = chat
     try:
         buttons = [[
-            InlineKeyboardButton('', url=f'https://t.me/cv_autofilter_bot')
+            InlineKeyboardButton('', url=f'https://t.me/Filter_Movie_SB_bot')
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await bot.send_message(
